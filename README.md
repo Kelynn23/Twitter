@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
 - [x] User can log in. (1pt)
 - [x] User can log out. (1pt)
 - [x] User stays logged in across restarts. (1pt)
@@ -18,5 +18,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/7UKgVeoZ9e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
